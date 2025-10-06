@@ -2,6 +2,9 @@
 
 🌱 I’m currently learning Laravel
 
+![image]({https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white})
+
+
 <!--
 **nurulcholis/nurulcholis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
